@@ -1,10 +1,4 @@
-<img width="820" height="781" alt="image" src="https://github.com/user-attachments/assets/cd385a95-b7d2-4e18-b64f-5de2b1cd738d" />
-
-<img width="1288" height="1143" alt="image" src="https://github.com/user-attachments/assets/258a8548-2030-4dc6-99e3-154291b79f19" />
-
-<img width="1264" height="1117" alt="image" src="https://github.com/user-attachments/assets/652689e4-a80b-4728-90e5-81a56a778fda" />
-
-
+<img width="508" height="303" alt="image" src="https://github.com/user-attachments/assets/eb652618-6a77-4fb6-9699-56e4262b68ae" />
 
 # Party Cast Bars
 
@@ -20,6 +14,8 @@ Clean, minimal cast bars for your party, attached to the right side of each raid
 - **Live preview mode** with demo casts, channels, non-interruptible casts and interrupts. If no party frame is visible, the preview bars float near the screen center.
 
 ## Settings GUI (`/pcb`)
+
+<img width="1288" height="1143" alt="image" src="https://github.com/user-attachments/assets/258a8548-2030-4dc6-99e3-154291b79f19" /> <img width="1264" height="1117" alt="image" src="https://github.com/user-attachments/assets/652689e4-a80b-4728-90e5-81a56a778fda" />
 
 | Tab | Options |
 |---|---|
